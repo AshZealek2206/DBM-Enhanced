@@ -1,6 +1,5 @@
 # DBM-Enhanced | For DBM: _2.1.7_
 > An addon or packge for **'Discord Bot Maker'** that enhances it.
-
 > These improvements include **Custom Scripts, Mods, Etc**
 
 
