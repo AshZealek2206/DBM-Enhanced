@@ -26,4 +26,4 @@
 ## Contact Us
 > Have bugs to report? Or features to suggest? Contact us!  
 > Discord Username: `ashthetrash`  
-> Discord Server: `Coming Soon`
+> Discord Server: `https://discord.gg/H2fpVMtynK`
