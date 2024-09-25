@@ -13,6 +13,8 @@
   > Download the `DBME.bat` file and move it to the same directory as your DBM Project.  
   > Execute the `DBME.bat` file and select the appropriate option that corresponds to **'Install DBME'**
   ![installImage](https://github.com/user-attachments/assets/7331103f-8b9f-4e4c-a0df-562c0e4d473a)
+  ![image](https://github.com/user-attachments/assets/1059c24b-63e9-4a6f-89ec-41e28e4b9574)
+
 
 - Linux
   > Coming Soon
